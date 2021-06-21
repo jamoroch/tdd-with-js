@@ -1,0 +1,23 @@
+{
+  "name": "tdd-with-js",
+  "version": "1.0.0",
+  "description": "TDD jammin",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest src/ --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamoroch/tdd-with-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamoroch/tdd-with-js/issues"
+  },
+  "homepage": "https://github.com/jamoroch/tdd-with-js#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}

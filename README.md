@@ -1,2 +1,3 @@
 # tdd-with-js
-TDD jammin 
+
+TDD jamming with Javascript and [Jest](https://jestjs.io).
