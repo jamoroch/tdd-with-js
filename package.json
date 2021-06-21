@@ -4,7 +4,8 @@
   "description": "TDD jamming with Javascript and Jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest src/ --watch"
+    "test": "jest src/ --watch",
+    "ci-test": "jest src"
   },
   "repository": {
     "type": "git",
