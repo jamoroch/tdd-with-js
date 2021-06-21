@@ -1,7 +1,5 @@
 _ = {
-    'sum': function sum(a, b) {
-        return a + b;
-    },
+    'sum': (a,b) => a + b,
     'div': (a,b) => a/b
 }
 
