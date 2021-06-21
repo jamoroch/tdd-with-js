@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jamoroch/tdd-with-js#readme",
   "devDependencies": {
     "jest": "^27.0.4",
-    "jest-extended": "^0.11.5"
+    "jest-extended": "^0.11.5",
+    "jest-html-reporter": "^3.4.1"
   }
 }
